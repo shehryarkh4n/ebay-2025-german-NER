@@ -208,3 +208,7 @@ __marimo__/
 
 # mac stuff
 .DS_Store
+
+# other
+local/
+datasets/
